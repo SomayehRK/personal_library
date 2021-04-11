@@ -69,7 +69,7 @@ def get_data():
     return book
 
 
-print('test pulling Git")
+print('i changed the pulled version')
 comment = ''
 book_shelf = []
 while comment != 'Quit':
