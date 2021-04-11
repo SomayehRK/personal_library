@@ -199,6 +199,7 @@ def print_all_shelf(lst):
     print(tabulate(show_list, headers=['id', 'media_type', 'title', 'status']))
 
 
+print('test modifying')
 main_shelf = []
 book_shelf = []
 magazine_shelf = []
